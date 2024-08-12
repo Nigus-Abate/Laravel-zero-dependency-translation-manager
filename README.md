@@ -10,6 +10,7 @@ l<p align="center"><a href="https://laravel.com" target="_blank"><img src="https
 -A Laravel zero dependency translation manager for your new or existing web application app
 -This laravel translation manager come up with both command line and user interface with out any third partiy package.
 # Usage in command
+- cd `project-directory`
 - First download and put on your existing project
 - On your root directory type `php artisan lang:en "fi fi-us"` by specify the new language and and it's [flag icon](https://github.com/lipis/flag-icons)
 - The command copy the existing en language to the new language the translation is done through interface
